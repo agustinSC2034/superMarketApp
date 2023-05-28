@@ -2,14 +2,13 @@ export const ORDERS = [
   {
     id: 1,
     date: 1605898400000,
-    total: 10000,
+    total: 250,
     items: [
       {
         id: 1,
         categoryId: 1,
         name: "Pan de yema",
         description: "clasico y delicioso pan de yema",
-        weight: "60gr",
         price: 1.0,
         quantity: 3,
       },
@@ -36,7 +35,7 @@ export const ORDERS = [
   {
     id: 2,
     date: 1705898400000,
-    total: 12000,
+    total: 300,
     items: [
       {
         id: 1,

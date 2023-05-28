@@ -4,7 +4,6 @@ export const CART = [
     categoryId: 1,
     title: "Pan Bagguette",
     description: "clasico pan frances",
-    weight: "400gr",
     price: 600,
     quantity: 2,
   },
